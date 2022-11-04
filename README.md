@@ -15,6 +15,6 @@ Methods deployed:
 
 Findings: 
   * highest predictors of customers likely to convert were:
-  * Having previously been contacted
-  * Retained/returning customers
-  * Retired individuals
+      * Having previously been contacted
+      * Retained/returning customers
+      * Retired individuals
