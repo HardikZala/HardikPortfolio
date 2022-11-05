@@ -19,7 +19,7 @@ Findings:
       * Retained/returning customers
       * Retired individuals
 
-[Seattle House Prices Prediction]('https://github.com/HardikZala/Data-Analysis/blob/main/Model_Testing_and_Refinement.ipynb')
+[Seattle House Prices Prediction](https://github.com/HardikZala/Data-Analysis/blob/main/Model_Testing_and_Refinement.ipynb)
 * Predict Housing prices using a linear regression model, polynomial regression model
 * Evaluate the model's parameters using Ridge regression 
 Methods used: 
@@ -29,3 +29,8 @@ Methods used:
 * Developing the model based on selected features
       * number of floors, waterfront location, latitude, bedrooms etc.
       * was accurately able to predict house prices with 64.7% accuracy
+
+[Securities Portfolio Risk Calculator](https://github.com/HardikZala/Data-Analysis/blob/main/Portfolio_Risk_Calculator.ipynb)
+* Streamlined access to key financial metrics for financial investors for portfolio optimization through presented metrics for portfolio beta, Capital Asset Pricing Model, Jensen’s Alpha, Portfolio Standard Deviation etc.  
+* Ensured consistent data through real time trading data by web scraping (Beautiful Soup) and APIs calls (yahoo finance)
+* Allow for user input securities to create a portfolio with stocks, and weights  
