@@ -39,5 +39,4 @@ Methods used:
 * Streamlined access to key financial metrics for financial investors for portfolio optimization through presented metrics for portfolio beta, Capital Asset Pricing Model, Jensen’s Alpha, Portfolio Standard Deviation etc.  
 * Ensured consistent data through real time trading data by web scraping (Beautiful Soup) and APIs calls (yahoo finance)
 * Allow for user input securities to create a portfolio with stocks, and weights
-
 ![portfolio_risk_calculator_images](https://user-images.githubusercontent.com/97468134/200138678-faf7b0eb-d64f-4b48-af29-e905c9ea493a.jpg)
