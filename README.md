@@ -1,4 +1,7 @@
 # HardikPortfolio
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 [Bank Marketing Data](https://github.com/HardikZala/Data-Analysis/blob/main/Bank_conversion_predictive_model.ipynb) 
 * Created a Regression Model to identify customers that are likely to convert
