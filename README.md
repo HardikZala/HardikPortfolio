@@ -34,6 +34,7 @@ Methods used:
       * number of floors, waterfront location, latitude, bedrooms etc.
       * was accurately able to predict house prices with 64.7% accuracy
 
+
 ![house_data_images](https://user-images.githubusercontent.com/97468134/200138649-1c1d2305-6104-43b8-8f93-56915640d2ef.png)
 
 [Securities Portfolio Risk Calculator](https://github.com/HardikZala/Data-Analysis/blob/main/Portfolio_Risk_Calculator.ipynb)
