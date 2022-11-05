@@ -41,4 +41,4 @@ Methods used:
 * Allow for user input securities to create a portfolio with stocks, and weights
 ![portfolio_risk_calculator_images](https://user-images.githubusercontent.com/97468134/200138678-faf7b0eb-d64f-4b48-af29-e905c9ea493a.jpg)
 
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
