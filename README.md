@@ -4,8 +4,8 @@
 * Created a Regression Model to identify customers that are likely to convert
 Methods used:
 * Performing Exploratory Data Analysis to identify null values, data redundancies, outliers
-    * Identify use cases of machine learning models
-* Preprocessing of features to align with Logistic Regression Guidelines
+    * Identify use cases for predictive models
+* Preprocessing of features to align with Logistic Regression guidelines
   * normalization of continuous features, through log transformation
   * feature standardization
   * creating binary features
